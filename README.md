@@ -8,4 +8,4 @@ Projects will be added here as the certificate progresses, each with its own dat
 
 ## Tools
 
-Python, pandas, seaborn, matplotlib, scikit-learn, Jupyter, Tableau
+Python, SQL, Excel, Power BI, Tableau, Jupyter
